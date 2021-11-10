@@ -1,5 +1,5 @@
 # labspy02
-#Latihan 1
-#latihan 2
-#Latihan 3
-#Tugaspraktikum2
+sourcecode Latihan 1
+sourcecode Latihan 2
+sourcecode Latihan 3
+tugas praktikum 2
