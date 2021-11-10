@@ -1,6 +1,6 @@
 # labspy02
 ##
-### sourcecode Latihan 1
-### sourcecode Latihan 2
-### sourcecode Latihan 3
-### tugas praktikum 2
+### 1. sourcecode Latihan 1
+### 2. sourcecode Latihan 2
+### 3. sourcecode Latihan 3
+### 4. tugas praktikum 2
