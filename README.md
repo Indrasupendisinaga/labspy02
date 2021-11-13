@@ -8,7 +8,7 @@
   
 # latihan3
 <p>
-- sourcecde Latighan 3
+- sourcecde Latihan 3
   
 
 # Tugaspraktikum2
