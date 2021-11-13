@@ -37,10 +37,41 @@
 
 <p> print("--------------------------")
 <p>
-<p> 
+<p> ![screenshotlatihan1](https://user-images.githubusercontent.com/92582081/141603893-079b0c26-840b-4b69-abe8-258127b1e118.png)
+  
+  
 # latihan2
 <p>
 - sourcecode Latihan 2
+<p> print ("------------------")
+<p> print ("Pertemuan ke 7")
+<p> print ("latihan 2")
+<p> print ("------------------")
+
+<p> gaji = int(input("masukkan gaji :"))
+<p> berkeluarga = (False, True)[input("sudah berkeluarga? (Y/T) :") == "Y"]
+<p> punya_rumah = (False, True)[input("punya rumah? (Y/T) :") == "Y"]
+
+<p> if gaji > 3000000:
+
+
+<p>    print ("                        ")
+<p>    print ("-------Keterangan-------")
+<p>    print ("                        ")
+
+<p>    print ("gaji sudah diatas UMR")
+<p>    if berkeluarga :
+<p>        print ("- wajib ikutan asuransi dan menabung untuk pensiun")
+<p>    else:
+<p>        print ("- tidak perlu ikut asuransi")    
+<p>    if punya_rumah :
+<p>        print ("- wajib bayar pajak rumah")
+<p>    else:
+<p>        print ("- tidak wajib bayar pajak rumah")
+<p> else:
+<p>    print ("gaji belum UMR")
+ <p>
+ 
   
 # latihan3
 <p>
