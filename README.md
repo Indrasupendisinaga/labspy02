@@ -71,6 +71,7 @@
 <p> else:
 <p>    print ("gaji belum UMR")
  <p>
+ <p> ![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141603978-471425a7-de42-4d7c-99af-65bbb5213d2d.png)
  
   
 # latihan3
