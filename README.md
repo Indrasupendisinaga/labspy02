@@ -77,8 +77,23 @@
 # latihan3
 <p>
 - sourcecde Latihan 3
-  
+<p> print ("------------------")
+<p> print ("Pertemuan ke 7")
+<p> print ("latihan 3")
+<p> print ("penggunaan kondisi or, program membandingkan 3 input bilangan")
+<p> print ("------------------")
 
+<p> a = int (input("masukkan bilangan A :"))
+<p> b = int (input("masukkan bilangan B :"))
+<p> c = int (input("masukkan bilangan C :"))
+
+<p> print ("------------------")
+<p> if a+b == c or b+c == a or c+a == b :
+<p>    print("BENAR")
+<p> else :
+<p>    print("SALAH")
+<p>
+<P> 
 # Tugaspraktikum2
 <p>
 - Sourcecode tugaspraktikum3
