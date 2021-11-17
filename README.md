@@ -73,7 +73,6 @@
  
   
 # latihan3
-<p>
 - sourcecde Latihan 3
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
