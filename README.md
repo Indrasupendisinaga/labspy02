@@ -1,8 +1,8 @@
 # latihan1
 <p>
-- sourcecode Latihan 1
+# - sourcecode Latihan 1
 <p>
-</p> print ("------------------")
+<p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("latihan 1")
 <p> print ("------------------")
