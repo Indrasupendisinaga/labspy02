@@ -1,5 +1,5 @@
 # latihan1
-- sourcecode Latihan1*
+- sourcecode Latihan1
 <p>
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
@@ -40,7 +40,6 @@
   
   
 # latihan2
-<p>
 - sourcecode Latihan 2
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
