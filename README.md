@@ -1,6 +1,6 @@
 # latihan1
 <p>
-** sourcecode Latihan 1**
+***sourcecode Latihan1***
 <p>
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
