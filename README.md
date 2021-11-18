@@ -109,3 +109,4 @@
 <P> else :
 <P>     print("SALAH")
 <P> 
+<P> ![screenshottugaspraktikum](https://user-images.githubusercontent.com/92582081/142384892-1fa5ecaf-5d37-4a2e-b61f-c90429f873f9.png)
