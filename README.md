@@ -1,5 +1,5 @@
 # latihan1
-- sourcecode Latihan1
+### sourcecode Latihan1
 <p>
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
@@ -43,7 +43,7 @@
 <p>
   
 # latihan2
-- sourcecode Latihan 2
+### sourcecode Latihan 2
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("latihan 2")
@@ -54,7 +54,6 @@
 <p> punya_rumah = (False, True)[input("punya rumah? (Y/T) :") == "Y"]
 
 <p> if gaji > 3000000:
-
 
 <p>    print ("                        ")
 <p>    print ("-------Keterangan-------")
@@ -79,7 +78,7 @@
  <p>
   
 # latihan3
-- sourcecde Latihan 3
+### sourcecde Latihan 3
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("latihan 3")
@@ -94,12 +93,15 @@
 <p> if a+b == c or b+c == a or c+a == b :
 <p>    print("BENAR")
 <p> else :
-<p>    print("SALAH")
+<p>    print("SALAH") 
 <p>
+  
 <P> ![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141603978-471425a7-de42-4d7c-99af-65bbb5213d2d.png)
   
+<p>
+  
 # tugas praktikum3
-- Sourcecode tugaspraktikum3
+### Sourcecode tugaspraktikum3
 <P> print ("------------------")
 <P> print ("Pertemuan ke 7")
 <P> print ("latihan 3")
@@ -114,5 +116,7 @@
 <P>     print("BENAR")
 <P> else :
 <P>     print("SALAH")
+  
 <P> 
+  
 <P> ![screenshottugaspraktikum](https://user-images.githubusercontent.com/92582081/142384892-1fa5ecaf-5d37-4a2e-b61f-c90429f873f9.png)
