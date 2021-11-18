@@ -109,7 +109,7 @@
   
 <p>
   
-<P> ![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141603978-471425a7-de42-4d7c-99af-65bbb5213d2d.png)
+![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141603978-471425a7-de42-4d7c-99af-65bbb5213d2d.png)
   
 <p>
   
@@ -136,4 +136,4 @@
   
 <P> 
   
-<P> ![screenshottugaspraktikum](https://user-images.githubusercontent.com/92582081/142384892-1fa5ecaf-5d37-4a2e-b61f-c90429f873f9.png)
+![screenshottugaspraktikum](https://user-images.githubusercontent.com/92582081/142384892-1fa5ecaf-5d37-4a2e-b61f-c90429f873f9.png)
