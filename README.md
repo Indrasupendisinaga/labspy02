@@ -74,8 +74,12 @@
 <p>        print ("- tidak wajib bayar pajak rumah")
 <p> else:
 <p>    print ("gaji belum UMR")
+ 
+<p>
   
- <p>
+### Screenshot hasil program
+  
+<p>
    
  ![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141603978-471425a7-de42-4d7c-99af-65bbb5213d2d.png)
  
@@ -98,6 +102,11 @@
 <p>    print("BENAR")
 <p> else :
 <p>    print("SALAH") 
+  
+<p>
+  
+### Screenshot hasil program
+  
 <p>
   
 <P> ![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141603978-471425a7-de42-4d7c-99af-65bbb5213d2d.png)
@@ -120,6 +129,10 @@
 <P>     print("BENAR")
 <P> else :
 <P>     print("SALAH")
+  
+<p>
+  
+### Screenshot hasil program
   
 <P> 
   
