@@ -1,5 +1,5 @@
 # latihan1
-### sourcecode Latihan1
+### sourcecode program
 <p>
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
@@ -37,13 +37,15 @@
 <p> print("--------------------------")
   
 <p>
-  
+### Screenshot hasil program  
+<p>
+
 ![screenshotlatihan1](https://user-images.githubusercontent.com/92582081/141603893-079b0c26-840b-4b69-abe8-258127b1e118.png)
  
 <p>
   
 # latihan2
-### sourcecode Latihan 2
+### sourcecode program
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("latihan 2")
