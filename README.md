@@ -86,7 +86,7 @@
  <p>
   
 # latihan3
-### sourcecde Latihan 3
+### sourcecde program
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("latihan 3")
@@ -114,7 +114,7 @@
 <p>
   
 # tugas praktikum3
-### Sourcecode tugaspraktikum3
+### Sourcecode program
 <P> print ("------------------")
 <P> print ("Pertemuan ke 7")
 <P> print ("latihan 3")
