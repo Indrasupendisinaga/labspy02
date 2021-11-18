@@ -35,9 +35,12 @@
 <p> print ("Keterangan  :",keterangan)
 
 <p> print("--------------------------")
-<p>
-<p> ![screenshotlatihan1](https://user-images.githubusercontent.com/92582081/141603893-079b0c26-840b-4b69-abe8-258127b1e118.png)
   
+<p>
+  
+![screenshotlatihan1](https://user-images.githubusercontent.com/92582081/141603893-079b0c26-840b-4b69-abe8-258127b1e118.png)
+ 
+<p>
   
 # latihan2
 - sourcecode Latihan 2
@@ -68,9 +71,12 @@
 <p>        print ("- tidak wajib bayar pajak rumah")
 <p> else:
 <p>    print ("gaji belum UMR")
+  
  <p>
- <p> ![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141603978-471425a7-de42-4d7c-99af-65bbb5213d2d.png)
+   
+ ![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141603978-471425a7-de42-4d7c-99af-65bbb5213d2d.png)
  
+ <p>
   
 # latihan3
 - sourcecde Latihan 3
