@@ -93,5 +93,19 @@
 <P> ![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141603978-471425a7-de42-4d7c-99af-65bbb5213d2d.png)
   
 # tugas praktikum3
-<p>
 - Sourcecode tugaspraktikum3
+<P> print ("------------------")
+<P> print ("Pertemuan ke 7")
+<P> print ("latihan 3")
+<P> print ("penggunaan kondisi or, program membandingkan 3 input bilangan")
+<P> print ("------------------")
+<P> a = int (input("masukkan bilangan A :"))
+<P> b = int (input("masukkan bilangan B :"))
+<P> c = int (input("masukkan bilangan C :"))
+<P> print ("------------------")
+<P> if a+b == c or b+c == a or c+a == b :
+<P>     # salah satu bilangan yang diinput harus penjumlahan hasil dari bilangan pertama dan kedua
+<P>     print("BENAR")
+<P> else :
+<P>     print("SALAH")
+<P> 
