@@ -12,6 +12,7 @@ c = int (input("masukkan bilangan C :"))
 
 print ("------------------")
 if a+b == c or b+c == a or c+a == b :
+    # salah satu bilangan yang diinput harus penjumlahan hasil dari bilangan pertama dan kedua
     print("BENAR")
 else :
     print("SALAH")
